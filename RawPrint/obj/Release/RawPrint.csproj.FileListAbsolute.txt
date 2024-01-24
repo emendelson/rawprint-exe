@@ -1,0 +1,14 @@
+D:\Development\RawPrint-master\RawPrint\bin\Release\RawPrint.dll
+D:\Development\RawPrint-master\RawPrint\bin\Release\RawPrint.pdb
+D:\Development\RawPrint-master\RawPrint\obj\Release\RawPrint.dll
+D:\Development\RawPrint-master\RawPrint\obj\Release\RawPrint.pdb
+C:\Users\Edward\Desktop\RawPrint-master\RawPrint\bin\Release\RawPrint.dll
+C:\Users\Edward\Desktop\RawPrint-master\RawPrint\bin\Release\RawPrint.pdb
+C:\Users\Edward\Desktop\RawPrint-master\RawPrint\obj\Release\RawPrint.csprojResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\RawPrint-master\RawPrint\obj\Release\RawPrint.dll
+C:\Users\Edward\Desktop\RawPrint-master\RawPrint\obj\Release\RawPrint.pdb
+C:\Users\Edward\Desktop\RawPrint-modified\RawPrint\bin\Release\RawPrint.dll
+C:\Users\Edward\Desktop\RawPrint-modified\RawPrint\bin\Release\RawPrint.pdb
+C:\Users\Edward\Desktop\RawPrint-modified\RawPrint\obj\Release\RawPrint.csprojResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\RawPrint-modified\RawPrint\obj\Release\RawPrint.dll
+C:\Users\Edward\Desktop\RawPrint-modified\RawPrint\obj\Release\RawPrint.pdb

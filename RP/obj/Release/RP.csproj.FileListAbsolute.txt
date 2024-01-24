@@ -1,0 +1,15 @@
+D:\Development\RawPrint-master\RP\bin\Release\RP.exe
+D:\Development\RawPrint-master\RP\bin\Release\RawPrint.dll
+D:\Development\RawPrint-master\RP\bin\Release\RawPrint.pdb
+D:\Development\RawPrint-master\RP\obj\Release\RP.csprojResolveAssemblyReference.cache
+D:\Development\RawPrint-master\RP\obj\Release\RP.exe
+C:\Users\Edward\Desktop\RawPrint-master\RP\bin\Release\RP.exe
+C:\Users\Edward\Desktop\RawPrint-master\RP\bin\Release\RawPrint.dll
+C:\Users\Edward\Desktop\RawPrint-master\RP\bin\Release\RawPrint.pdb
+C:\Users\Edward\Desktop\RawPrint-master\RP\obj\Release\RP.csprojResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\RawPrint-master\RP\obj\Release\RP.exe
+C:\Users\Edward\Desktop\RawPrint-modified\RP\bin\Release\RP.exe
+C:\Users\Edward\Desktop\RawPrint-modified\RP\bin\Release\RawPrint.dll
+C:\Users\Edward\Desktop\RawPrint-modified\RP\bin\Release\RawPrint.pdb
+C:\Users\Edward\Desktop\RawPrint-modified\RP\obj\Release\RP.csprojResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\RawPrint-modified\RP\obj\Release\RP.exe
