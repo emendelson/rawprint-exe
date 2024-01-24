@@ -1,6 +1,14 @@
 RawPrint
 ========
 
+Forked from a 2015 version of rawprint from Frogmore Computer Services. 
+
+Code modified to print to the default printer if no printer is named.
+
+Use ILmerge to combine the DLL and exe into a single static-linked executable.
+
+========
+
 .Net library to send files directly to a Windows printer bypassing the printer driver.
 
 Send PostScript, PCL or other print file types directly to a printer.
